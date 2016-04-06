@@ -54,3 +54,14 @@ nav ul li a {
 .fa-ul li a {
     text-decoration: none;
 }
+.cont {
+    margin-top: 10%;
+    width: 100%;
+}
+h1 {
+    font-size: 120%;
+    color: snow;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 200%;
+}
