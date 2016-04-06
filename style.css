@@ -24,8 +24,11 @@ body {
     float: left;
     background: red;
     margin: 0 0;
-    padding: 6px 8px;
+    padding: 4px 10px;
     color: snow;
+    line-height: 130%;
+    margin-bottom: 1px solid snow;
+    font-size: 120%;
 }
 nav {
     width: 80%;
@@ -57,11 +60,16 @@ nav ul li a {
 .cont {
     margin-top: 10%;
     width: 100%;
+    text-align: center;
 }
 h1 {
     font-size: 200%;
     color: snow;
     text-transform: uppercase;
-    text-align: center;
     line-height: 200%;
+}
+p{
+font-size: 70%;
+ color: snow;
+
 }
