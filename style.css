@@ -23,3 +23,13 @@
     padding: 3px 6px;
     color: snow;
 }
+nav {
+    text-align: center;
+}
+nav ul {
+    list-style-type: none;
+}
+nav ul li {
+    text-decoration: none;
+    color: snow;
+}
