@@ -118,6 +118,19 @@ p {
     text-transform: uppercase;
     font-size: 150%;
     margin-left: 60%;
+    padding-top: 16%;
+}
+.aside2 h3 {
+    color: snow;
+    text-transform: uppercase;
+    font-size: 180%;
+    margin-left: 60%;
+}
+.aside2 p {
+    color: gray;
+    font-size: 90%;
+    line-height: 200%;
+    margin-left: 60%;
 }
 .box1 {
     width: 100%;
