@@ -19,16 +19,10 @@ body {
     height: 400px;
     background-color: black;
 }
-.span {
-    text-transform: uppercase;
+img {
     float: left;
-    background: red;
     margin: 0 0;
     padding: 4px 10px;
-    color: snow;
-    line-height: 130%;
-    margin-bottom: 1px solid snow;
-    font-size: 120%;
 }
 nav {
     width: 80%;
@@ -51,11 +45,14 @@ nav ul li a {
     width: 12%;
     float: right;
     color: snow;
-    margin-right: 1%;
 }
-.fa-ul li {}
+.fa-ul li {
+    display: inline-block;
+    margin-right: 4%;
+}
 .fa-ul li a {
     text-decoration: none;
+    color: snow;
 }
 .cont {
     margin-top: 10%;
@@ -68,8 +65,22 @@ h1 {
     text-transform: uppercase;
     line-height: 200%;
 }
-p{
-font-size: 70%;
- color: snow;
+p {
+    font-size: 70%;
+    color: snow;
+}
+#button {
+    width: 16%;
+    height: 4%;
+    background-color: snow;
+   margin-right: 50%;
+
+}
+#button p {
+    color: gray;
+    text-align: center;
+    padding-top: 5%;
+    font-size: 100%;
+    text-transform: uppercase;
 
 }
