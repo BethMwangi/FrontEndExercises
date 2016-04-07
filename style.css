@@ -155,3 +155,10 @@ p {
     font-size: 90%;
     margin-bottom: 100%;
 }
+
+/* adding content to 3rd row*/
+.row1 {
+    width: 100%;
+    height: 600px;
+    background-color:snow;
+}
