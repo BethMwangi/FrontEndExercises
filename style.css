@@ -185,6 +185,9 @@ p {
     height: 600px;
     padding-left: 20%;
 }
+.aside4 img {
+    padding-left: 10%;
+}
 #button3 {
     width: 30%;
     height: 7%;
@@ -199,5 +202,67 @@ p {
     font-size: 100%;
     text-transform: uppercase;
 }
+.row2 {
+    width: 100%;
+    height: 400px;
+    background-color: snow;
+}
+.col1 {
+    float: left;
+    width: 33.33%;
+    padding-left: 8%;
+    height: 400px;
+}
+.col2 {
+    float: left;
+    width: 66.66%;
+    height: 400px;
+}
+.col3 {
+    float: left;
+    width: 100%;
+    height: 400px;
+}
+.row2 h6 {
+    color: crimson;
+    padding-left: 15px;
+    font-size: 100%;
+}
+.row2 p {
+    color: black;
+    font-size: 80%;
+}
+.row3 {
+    width: 100%;
+    height: 600px;
+    background-color: snow;
+    padding-left: 7%;
+}
+.row3 li {
+    display: inline-block;
+}
+.row3 h3 {
+    text-transform: uppercase;
+    text-align: justify;
+    font-size: 200%;
+}
+.row3 p {
+    color: black;
+}
+.row3-1 li,
+.row3-2 li {
+    widows: 100%;
+    margin-right: 16%;
+    margin-bottom: 2%;
+}
 
+/****
+****Start of row4***
+*****/
+
+.row4 {
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    background-color: dimgrey;
 }
