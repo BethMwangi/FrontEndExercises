@@ -157,8 +157,17 @@ p {
 }
 
 /* adding content to 3rd row*/
+
 .row1 {
     width: 100%;
     height: 600px;
-    background-color:snow;
+    background-color: snow;
+}
+.aside3 {
+    width: 50%;
+    color: black;
+    background-color: sno;
+}
+.aside4 {
+    width: 50%;
 }
