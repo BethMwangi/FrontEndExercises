@@ -373,6 +373,12 @@ Row 7 last row*******/
     float: left;
     text-align: center;
 }
+.row7-2 {
+    width: 100%;
+    float: left;
+    background-color: crimson;
+    height: 700px;
+}
 .row7-1 h2 {
     font-size: 200%;
     text-transform: uppercase;
@@ -387,11 +393,6 @@ Row 7 last row*******/
     text-align: justify;
     padding-left: 30%;
 }
-.row7-2 {
-    width: 100%;
-    float: left;
-    background-color: crimson;
-}
 input {
     width: 200px;
     height: 30px;
@@ -404,4 +405,23 @@ button {
     width: 80px;
     text-transform: uppercase;
     height: 30px;
+}
+
+/************
+****** Columns for social media icons ****/
+
+.row7-2 {
+    width: 50%;
+    height: 500px;
+}
+.row7-2 box .col1-2 {
+    width: 50%;
+    height: 200px;
+    background-color: black;
+    float: left;
+}
+.row7-2 box .col2-2 {
+    width: 100px;
+    float: left;
+    background-color: coral;
 }
