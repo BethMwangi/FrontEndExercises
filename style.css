@@ -17,7 +17,7 @@ body {
 .header {
     width: 100%;
     height: 600px;
-    background-color: black;
+    background-color: #30282a;
 }
 img {
     float: left;
@@ -96,7 +96,7 @@ p {
     background-color: aliceblue;
 }
 .aside1 p {
-    color: black;
+    color: #30282a;
     line-height: 20px;
     font-size: 100%;
     margin-left: 40%;
@@ -104,17 +104,17 @@ p {
     text-align: left;
 }
 .aside1 h1 {
-    color: black;
+    color: #30282a;
     margin-left: 40%;
     text-transform: uppercase;
 }
 .aside2 {
     width: 100%;
     height: 600px;
-    background-color: crimson;
+    background-color: #F63C3C;
 }
 .aside2 h4 {
-    color: gray;
+    color: bisque;
     text-transform: uppercase;
     font-size: 150%;
     margin-left: 60%;
@@ -127,7 +127,7 @@ p {
     margin-left: 60%;
 }
 .aside2 p {
-    color: gray;
+    color: bisque;
     font-size: 90%;
     line-height: 200%;
     margin-left: 60%;
@@ -141,7 +141,7 @@ p {
     margin-top: 2%;
     width: 40%;
     height: 8%;
-    background-color: crimson;
+    background-color: #F63C3C;
     margin-left: 20%;
     color: snow;
     text-transform: uppercase;
@@ -150,7 +150,7 @@ p {
     font-size: 110%;
 }
 #row-cont {
-    color: black;
+    color: #30282a;
     height: 50px;
     font-size: 90%;
     margin-bottom: 100%;
@@ -175,7 +175,7 @@ p {
     font-size: 170%;
 }
 .aside3 p {
-    color: black;
+    color: #30282a;
     font-size: 100%;
     text-align: left;
     padding-left: 20%;
@@ -191,7 +191,7 @@ p {
 #button3 {
     width: 30%;
     height: 7%;
-    background-color: crimson;
+    background-color: #F63C3C;
     margin-left: 35%;
 }
 #button3 p {
@@ -229,7 +229,7 @@ p {
     font-size: 100%;
 }
 .row2 p {
-    color: black;
+    color: #30282a;
     font-size: 80%;
 }
 .row3 {
@@ -264,7 +264,7 @@ p {
     width: 100%;
     height: 150px;
     text-align: center;
-    background-color: dimgrey;
+    background-color: #30282a;
     color: snow;
 }
 .row4 h2 {
@@ -294,7 +294,7 @@ p {
 .box {
     width: 80%;
     height: 100px;
-    background-color: black;
+    background-color: #30282a;
     margin-right: 10px;
 }
 .row5 h2 {
@@ -325,13 +325,15 @@ p {
 #button4 {
     width: 60%;
     height: 9%;
-    background-color: crimson;
+    background-color: snow;
     display: inline-block;
+    border: 2px solid #605a5c;
 }
 #button4 p {
     text-transform: uppercase;
     padding-top: 8%;
     font-size: 80%;
+    color: #30282a;
 }
 .row6 {
     width: 100%;
@@ -353,7 +355,7 @@ p {
     display: inline-block;
     margin-right: 5%;
     margin-left: 5%;
-    outline-color: crimson;
+    outline-color: #F63C3C;
 }
 .row6 ul li a {
     text-decoration: none;
@@ -387,7 +389,7 @@ Row 7 last row*******/
     padding-left: 30%;
 }
 .row7-1 p {
-    color: black;
+    color: #30282a;
     font-size: 80%;
     line-height: 150%;
     text-align: justify;
@@ -401,7 +403,7 @@ input {
 }
 button {
     color: snow;
-    background-color: crimson;
+    background-color: #F63C3C;
     width: 80px;
     text-transform: uppercase;
     height: 30px;
@@ -419,7 +421,7 @@ button {
 .col {
     width: 50%;
     height: 200px;
-    background-color: black;
+    background-color: #30282a;
     float: left;
     display: inline-block;
     color: snow;
@@ -440,10 +442,12 @@ button {
     padding-left: 30%;
 }
 .fb,
-pint {
-    background-color: #352D2F;
+.pint {
+    background-color: #726D6E;
 }
-.google,
+.google {
+    background-color: #30282a;
+}
 .twit {
     background-color: #605a5c;
 }
