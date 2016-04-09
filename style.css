@@ -413,6 +413,8 @@ button {
 .row7-2 {
     width: 50%;
     height: 500px;
+    padding-top: 1%;
+    background-color: snow;
 }
 .col {
     width: 50%;
@@ -421,5 +423,19 @@ button {
     float: left;
     display: inline-block;
     color: snow;
-    text-align: center;
+}
+.fa {
+    width: 20%;
+    float: left;
+    color: snow;
+    padding-top: 10%;
+    padding-left: 18%;
+}
+.col h4 {
+    padding-top: 3%;
+    padding-left: 30%;
+}
+.col p {
+    font-size: 90%;
+    padding-left: 30%;
 }
