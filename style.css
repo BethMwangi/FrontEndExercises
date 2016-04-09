@@ -358,3 +358,11 @@ p {
 .row6 ul li a {
     text-decoration: none;
 }
+
+/************
+Row 7 last row*******/
+
+.row7 {
+    width: 100%;
+    height: 500px;
+}
