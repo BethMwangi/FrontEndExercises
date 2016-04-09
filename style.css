@@ -403,6 +403,7 @@ Row 7 last row*******/
     padding-top: 10%;
     text-align: justify;
     padding-left: 30%;
+    font-weight: 200;
 }
 .row7-1 p {
     color: #30282a;
@@ -456,6 +457,7 @@ button {
     padding-left: 35%;
     text-transform: uppercase;
     font-family: 'Teko', sans-serif;
+    font-weight: 100;
 }
 .col p {
     font-size: 90%;
