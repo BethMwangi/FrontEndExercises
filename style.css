@@ -439,3 +439,11 @@ button {
     font-size: 90%;
     padding-left: 30%;
 }
+.fb,
+pint {
+    background-color: #352D2F;
+}
+.google,
+.twit {
+    background-color: #605a5c;
+}
